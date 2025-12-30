@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.2](https://github.com/vianetwork/via-core/compare/via_verifier-v1.1.1...via_verifier-v1.1.2) (2025-12-30)
+
+
+### Bug Fixes
+
+* **via_btc_watch:** via btc watch skip blocks after reorg ([#332](https://github.com/vianetwork/via-core/issues/332)) ([80ca2ba](https://github.com/vianetwork/via-core/commit/80ca2ba9594bacda8ec642c252cae36c1ac3c90a))
+* **via_verifier_coordinator:** prevent panic on malformed timestamp header input ([#336](https://github.com/vianetwork/via-core/issues/336)) ([3c51553](https://github.com/vianetwork/via-core/commit/3c51553da3c7785cf1a190831e81d130769a566e))
+
 ## [1.1.1](https://github.com/vianetwork/via-core/compare/via_verifier-v1.1.0...via_verifier-v1.1.1) (2025-12-23)
 
 
